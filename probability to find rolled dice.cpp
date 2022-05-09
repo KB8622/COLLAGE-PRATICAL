@@ -18,3 +18,4 @@ int main()
 	cout<<"\nThe Probability Is : "<<result<<endl;
 	return 0;
 }
+cout<<"punith";
